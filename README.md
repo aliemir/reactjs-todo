@@ -1,3 +1,10 @@
+
+https://github.com/typicode/json-server 
+
+`$ npm install -g json-server`
+
+json-server is used while mocking the data flow. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
